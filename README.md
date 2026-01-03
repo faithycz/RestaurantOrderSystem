@@ -1,5 +1,5 @@
 # Overview
-RestaurantOrderSystem is a console-based Java program that simulates a fast food restaurant ordering system.
+Restaurant Order System is a console-based Java program that simulates a fast food restaurant ordering system.
 Designed to be human-centered, it includes intuitive prompts, input validation, and clear presentation of information for easy interaction.
 Users are able to select burger and fries sizes (dynamically priced) and various extras (fixed price) to add to their order.
 The program calculates the user's total order cost and provides the user with a summary of their order at the conclusion of the interaction.
